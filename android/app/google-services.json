@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26500249634",
+    "project_id": "tourapp-f8426",
+    "storage_bucket": "tourapp-f8426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26500249634:android:4d95e5d20b0a586bfff27b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAekZ8L3Q-_wXMkPfKpZBv1tU5Pk9FJTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
